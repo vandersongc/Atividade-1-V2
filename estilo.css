@@ -90,10 +90,26 @@ main {
     width: 200px; 
     height: auto;
     display: block;
+
+    border: 2px solid black; 
+    padding: 10px; 
+    border-radius: 5px; 
+    margin: 10px; 
+
+    background-color: white;
+}
+
+.imagens p{
+    background-color: white;
+}
+
+.imagens h4{
+    background-color: white;
 }
 
 .imagens button {
     background-color: rgb(168, 167, 167);
+   
 }
 
 
